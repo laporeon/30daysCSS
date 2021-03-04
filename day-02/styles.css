@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #E04840;
+}
+
+.loading {
+  width: 40vh;
+  height: 40vh;
+  border: 8px solid #235E94;
+  border-top-color: #2B8AE0;
+  border-radius: 50%;
+  animation: rotate 2s linear infinite;
+  position: relative;
+}
+
+span {
+  position: absolute;
+  color: rgba(148,34,28,.8);
+  font-size: 1.6rem;
+  font-style: italic;
+}
+
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
