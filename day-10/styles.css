@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Press Start 2P", cursive;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ebd544;
+}
+
+h1 {
+  color: #f57e47;
+  font-size: 40px;
+}
+
+span::before {
+  content: "";
+  animation: changeSpan 2.4s infinite;
+}
+
+@keyframes changeSpan {
+  0% {
+    content: "💻";
+  }
+
+  25% {
+    content: "🎮";
+  }
+
+  50% {
+    content: "🐶";
+  }
+
+  75% {
+    content: "🍔";
+  }
+
+  100% {
+    content: "🌧";
+  }
+}
