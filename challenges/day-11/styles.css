@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  animation: changeBackground 10s infinite;
+}
+
+h1,
+h2 {
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+}
+
+@keyframes changeBackground {
+  0% {
+    background-color: #a701f5;
+  }
+
+  25% {
+    background-color: #f23a22;
+  }
+
+  50% {
+    background-color: #0a67f2;
+  }
+
+  75% {
+    background-color: #bff222;
+  }
+
+  100% {
+    background-color: #16f285;
+  }
+}
