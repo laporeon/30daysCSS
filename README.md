@@ -34,8 +34,8 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 * [Day 18 - Newton's cradle](#id18)
 * [Day 19 - Hover Effect](#id19)
 * [Day 20 - Input Animation](#id20)
-* [Dia 21 - Dropdrown Menu](#id21)
-* [Dia 22 - Em Breve!](#id22)
+* [Day 21 - Dropdrown Menu](#id21)
+* [Day 22 - Progress Bar](#id22)
 * [Dia 23 - Em Breve!](#id23)
 * [Dia 24 - Em Breve!](#id24)
 * [Dia 25 - Em Breve!](#id25)
@@ -113,4 +113,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 
 ##  Day 21 - Dropdrown Menu  <a name="id21"></a>
 ![Day21](https://user-images.githubusercontent.com/34722707/112220921-8e984100-8c05-11eb-8755-85b18c72c5d9.gif)
+
+##  Day 22 - Progress Bar  <a name="id22"></a>
+![Day22](https://user-images.githubusercontent.com/34722707/112348651-c6a39080-8ca6-11eb-9e22-e092f1cf4b38.gif)
 
