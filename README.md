@@ -36,7 +36,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 * [Day 20 - Input Animation](#id20)
 * [Day 21 - Dropdrown Menu](#id21)
 * [Day 22 - Progress Bar](#id22)
-* [Dia 23 - Em Breve!](#id23)
+* [Day 23 - Tooltip](#id23)
 * [Dia 24 - Em Breve!](#id24)
 * [Dia 25 - Em Breve!](#id25)
 * [Dia 26 - Em Breve!](#id26)
@@ -116,4 +116,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 
 ##  Day 22 - Progress Bar  <a name="id22"></a>
 ![Day22](https://user-images.githubusercontent.com/34722707/112348651-c6a39080-8ca6-11eb-9e22-e092f1cf4b38.gif)
+
+##  Day 23 - Tooltip <a name="id23"></a>
+![Day23](https://user-images.githubusercontent.com/34722707/112507274-41cf7a00-8d6d-11eb-8681-ad6a32c3edc0.gif)
 
