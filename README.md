@@ -36,7 +36,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 - [Day 22 - Progress Bar](#id22)
 - [Day 23 - Tooltip](#id23)
 - [Day 24 - Animated Preloader](#id24)
-- [Dia 25 - Em Breve!](#id25)
+- [Day 25 - Smoky Text Effect](#id25)
 - [Dia 26 - Em Breve!](#id26)
 - [Dia 27 - Em Breve!](#id27)
 - [Dia 28 - Em Breve!](#id28)
@@ -140,3 +140,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 ## Day 24 - Animated Preloader <a name="id24"></a>
 
 ![Day24](https://user-images.githubusercontent.com/34722707/112661751-9ccca400-8e35-11eb-9fe9-2a624e77310a.gif)
+
+## Day 25 - Smoky Text Effect <a name="id25"></a>
+
+![Day25](https://user-images.githubusercontent.com/34722707/112726182-e0d5ac80-8efa-11eb-807e-9aae3bbb44ed.gif)
