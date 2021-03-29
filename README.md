@@ -38,7 +38,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 - [Day 24 - Animated Preloader](#id24)
 - [Day 25 - Smoky Text Effect](#id25)
 - [Day 26 - 3D Flip Check](#id26)
-- [Dia 27 - Em Breve!](#id27)
+- [Day 27 - Animated Checkbox](#id27)
 - [Dia 28 - Em Breve!](#id28)
 - [Dia 29 - Em Breve!](#id29)
 - [Dia 30 - Em Breve!](#id30)
@@ -148,3 +148,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 ## Day 26 - 3D Flip Check <a name="id26"></a>
 
 ![Day26](https://user-images.githubusercontent.com/34722707/112756420-79336600-8fbb-11eb-818f-3428ae8fe1f8.gif)
+
+## Day 27 - Animated Checkbox <a name="id27"></a>
+
+![Day27](https://user-images.githubusercontent.com/34722707/112856481-35596300-9086-11eb-90e4-4fe6a777de61.gif)
