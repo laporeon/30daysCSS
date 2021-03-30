@@ -39,7 +39,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 - [Day 25 - Smoky Text Effect](#id25)
 - [Day 26 - 3D Flip Check](#id26)
 - [Day 27 - Animated Checkbox](#id27)
-- [Dia 28 - Em Breve!](#id28)
+- [Day 28 - Audio Wave Animation](#id28)
 - [Dia 29 - Em Breve!](#id29)
 - [Dia 30 - Em Breve!](#id30)
 
@@ -152,3 +152,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 ## Day 27 - Animated Checkbox <a name="id27"></a>
 
 ![Day27](https://user-images.githubusercontent.com/34722707/112856481-35596300-9086-11eb-90e4-4fe6a777de61.gif)
+
+## Day 28 - Audio Wave Animation <a name="id28"></a>
+
+![Day28](https://user-images.githubusercontent.com/34722707/113020141-aff2b300-9158-11eb-823b-06cf7135c82a.gif)
