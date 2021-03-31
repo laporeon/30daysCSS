@@ -40,7 +40,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 - [Day 26 - 3D Flip Check](#id26)
 - [Day 27 - Animated Checkbox](#id27)
 - [Day 28 - Audio Wave Animation](#id28)
-- [Dia 29 - Em Breve!](#id29)
+- [Day 29 - Sliding Text Effect](#id29)
 - [Dia 30 - Em Breve!](#id30)
 
 ## Day 01 - Page Loading Animation <a name="id01"></a>
@@ -156,3 +156,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 ## Day 28 - Audio Wave Animation <a name="id28"></a>
 
 ![Day28](https://user-images.githubusercontent.com/34722707/113020141-aff2b300-9158-11eb-823b-06cf7135c82a.gif)
+
+## Day 29 - Sliding Text Effect <a name="id29"></a>
+
+![Day29](https://user-images.githubusercontent.com/34722707/113167407-1390e500-921a-11eb-9c95-5bee19ac3ede.gif)
