@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  text-decoration: none;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #363636;
+}
+
+a {
+  position: relative;
+  padding: 15px;
+  color: #fff;
+  font-size: 30px;
+  overflow: hidden;
+  transition: 1.2s;
+  letter-spacing: 6px;
+  border: 4px solid #44e1b2;
+}
+
+a:hover {
+  background: #44e1b2;
+  color: #050801;
+  box-shadow: 0 0 5px #44e1b2, 0 0 10px #44e1b2, 0 0 0px #44e1b2,
+    0 0 30px #44e1b2;
+}
