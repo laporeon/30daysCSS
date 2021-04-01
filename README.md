@@ -41,7 +41,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 - [Day 27 - Animated Checkbox](#id27)
 - [Day 28 - Audio Wave Animation](#id28)
 - [Day 29 - Sliding Text Effect](#id29)
-- [Dia 30 - Em Breve!](#id30)
+- [Day 30 - Neon Button](#id30)
 
 ## Day 01 - Page Loading Animation <a name="id01"></a>
 
@@ -160,3 +160,7 @@ The main goal of this challenge is to practice HTML and vanilla CSS, making 30 m
 ## Day 29 - Sliding Text Effect <a name="id29"></a>
 
 ![Day29](https://user-images.githubusercontent.com/34722707/113167407-1390e500-921a-11eb-9c95-5bee19ac3ede.gif)
+
+## Day 30 - Neone Button <a name="id30"></a>
+
+![Day30](https://user-images.githubusercontent.com/34722707/113309757-d9891700-92dd-11eb-8057-3c7955b0d3f5.gif)
